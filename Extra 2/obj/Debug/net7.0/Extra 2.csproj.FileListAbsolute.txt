@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\bin\Debug\net7.0\Extra 2.exe
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\bin\Debug\net7.0\Extra 2.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\bin\Debug\net7.0\Extra 2.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\bin\Debug\net7.0\Extra 2.dll
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\bin\Debug\net7.0\Extra 2.pdb
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\obj\Debug\net7.0\Extra 2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\obj\Debug\net7.0\Extra 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\obj\Debug\net7.0\Extra 2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\obj\Debug\net7.0\Extra 2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\obj\Debug\net7.0\Extra 2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\obj\Debug\net7.0\Extra 2.dll
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\obj\Debug\net7.0\refint\Extra 2.dll
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\obj\Debug\net7.0\Extra 2.pdb
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\obj\Debug\net7.0\Extra 2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\Extra 2\obj\Debug\net7.0\ref\Extra 2.dll

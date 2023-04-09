@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\bin\Debug\net7.0\Desafio.exe
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\bin\Debug\net7.0\Desafio.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\bin\Debug\net7.0\Desafio.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\bin\Debug\net7.0\Desafio.dll
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\bin\Debug\net7.0\Desafio.pdb
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\obj\Debug\net7.0\Desafio.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\obj\Debug\net7.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\obj\Debug\net7.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\obj\Debug\net7.0\Desafio.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\obj\Debug\net7.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\obj\Debug\net7.0\Desafio.dll
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\obj\Debug\net7.0\refint\Desafio.dll
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\obj\Debug\net7.0\Desafio.pdb
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\obj\Debug\net7.0\Desafio.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\Desafio\obj\Debug\net7.0\ref\Desafio.dll

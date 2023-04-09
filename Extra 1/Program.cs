@@ -23,7 +23,7 @@ for (int vezes = 1; vezes <= 10; vezes++)
     while (sexoCorreto == false)
     {
         //sexo
-        Console.WriteLine($"{vezes}, Qual seu genero sexual? M para masculino, F para fiminino:");
+        Console.WriteLine($"{vezes}, Qual seu genero sexual? M para masculino, F para feminino:");
         sexo = char.Parse(Console.ReadLine().ToLower());
 
         if (sexo == 'f')
